@@ -29,6 +29,6 @@
   Technical report by the Hugging Face H4 team.
   They explain how they trained Zephyr, a strong 7B model fine-tuned from Mistral.
   
-  The main topic is: ⚗️ **how to effectively distill the capabilities of GPT-4 into smaller models?**.
-  The report is insightful and well worth reading. I have summarized it [here](https://www.linkedin.com/posts/stefano-fiorucci_llm-largelanguagemodels-nlp-activity-7129738807934885888-ADEX)
+  The main topic is: ⚗️ **how to effectively distill the capabilities of GPT-4 into smaller models?**
+  The report is insightful and well worth reading. I have summarized it [here](https://www.linkedin.com/posts/stefano-fiorucci_llm-largelanguagemodels-nlp-activity-7129738807934885888-ADEX).
 
