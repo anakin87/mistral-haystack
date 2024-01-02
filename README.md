@@ -17,6 +17,7 @@
 | Mixtral-8x7B-Instruct-v0.1 | 1.x                  |  [📄🚀 Notebook](https://colab.research.google.com/drive/1rH8df-C3P9pL4yrC2qSae9IOtx5Mr1N_) | RAG on a PDF File, using the free Hugging Face Inference API | [@AlessandroDiLauro](https://github.com/alessandrodilauro)   |
 | Mixtral-8x7B-Instruct-v0.1 | 2.x                  |  [🕸️💬 Notebook](https://colab.research.google.com/drive/1gsxurwwWK08ZZcPpzz_8yXlsLNZEDqUz) | RAG on the Web, using the free Hugging Face Inference API | [@TuanaCelik](https://github.com/tuanacelik)   |
 | Zephyr-7B Beta | 2.x                  |  [🪁 Article and notebook](https://haystack.deepset.ai/blog/guide-to-using-zephyr-with-haystack2) | Article on how make  this great model (fine-tuned from Mistral) run locally on Colab | [@TuanaCelik](https://github.com/tuanacelik) [@anakin87](https://github.com/anakin87)   |
+| Mixtral-8x7B-Instruct-v0.1 | 2.x                  |  [🩺💬 Article and notebook](https://haystack.deepset.ai/blog/mixtral-8x7b-healthcare-chatbot) | Healthcare chatbot with Mixtral, Haystack, and PubMed | [@annthurium](https://github.com/annthurium)   | |
 | Mixtral-8x7B-Instruct-v0.1 | 2.x                  |  [🇮🇹🇬🇧🎧 Notebook](multilingual_rag_podcast.ipynb) | **Multilingual RAG from a podcast** | [@anakin87](https://github.com/anakin87)   | |
 
 ## 📚 Resources
