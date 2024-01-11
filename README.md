@@ -8,6 +8,8 @@
 
  <img src="https://static.otta.com/uploads/images/company-logos/17023-r1fn8E7CIWJX0L-iFw8YivXD9C37itYuFvVWW_xFh5k.svg" width="270" style="display:inline;"><img src="https://img.freepik.com/premium-vector/electric-guitar-fire-hot-rock-music-guitar-flames-hard-rock-rock-roll-concert-festival-label-night-club-live-show-vector-logo-emblem_570429-23178.jpg?w=2000" width="180"><img src="https://haystack.deepset.ai/images/haystack-ogimage.png" width="360" style="display:inline;">
 
+ 💻 **For other great Haystack Notebooks, check out the 👩🏻‍🍳 [Haystack Cookbook](https://github.com/deepset-ai/haystack-cookbook)**
+
 
 ## 📓 Notebooks
 
